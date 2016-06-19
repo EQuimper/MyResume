@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Emanuel Quimper",
+    "label": "Programmer",
+    "picture": "https://en.gravatar.com/userimage/97603323/266ec2da917897419d2f7e5fffd8a69b.jpg?size=200",
+    "email": "quimperemanuel@gmail.com",
+    "phone": "(418) 446-7341",
+    "website": "http://equimper.github.io/",
+    "summary": "Emanuel Quimper from Quebec, Canada.",
+    "location": {
+      "address": "104 Edgemont Estates Dr Nw",
+      "postalCode": "T3A2M3",
+      "city": "Calgary",
+      "countryCode": "CA",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "QuimperEmanuel",
+        "url": "https://twitter.com/QuimperEmanuel"
+      },
+      {
+        "network": "Linkedin",
+        "username": "emanuelquimper",
+        "url": "https://ca.linkedin.com/in/emanuelquimper"
+      },
+      {
+        "network": "Github",
+        "username": "Equimper",
+        "url": "https://github.com/EQuimper"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Canadian Army",
+      "position": "Infantry Corporal",
+      "website": "",
+      "startDate": "2009-07-15",
+      "endDate": "2015-09-20",
+      "summary": "Always need to trained for be ready for every thing. Do some leadership task. ",
+      "highlights": [
+        "Give more than 100 first aid course",
+        "Was in the red guard at the Citadel of Quebec for 5 years",
+        "Finish first position in the Crossfit competition inter-army"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thinkful",
+      "area": "Web Development",
+      "studyType": "Online Bootcamp",
+      "startDate": "2016-03-26",
+      "endDate": "2016-05-26",
+      "gpa": "",
+      "courses": [
+        "Html",
+        "Css",
+        "JavaScript",
+        "jQuery",
+        "React",
+        "Redux",
+        "Angular",
+        "Node"
+      ]
+    },
+    {
+      "institution": "Campus-Notre-Dame-De-Foy",
+      "area": "Fire-Fighter",
+      "studyType": "Professional Diploma",
+      "startDate": "2007",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "StreamingApp",
+      "website": "http://equimper.github.io/streamingAppRedux/", 
+      "summary": "A little app make with the Twitch api and React + Redux"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "CSS",
+        "Html",
+        "Node",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Library/Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "Ember",
+        "Redux",
+        "Rails"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professionnal"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Hockey",
+        "Football",
+        "Crossfit"
+      ]
+    },
+    {
+      "name": "Tech",
+      "keywords": [
+        "New Technologie"
+      ]
+    },
+    {
+      "name": "Movie",
+      "keywords": [
+        "Action",
+        "Super-Heros",
+        "Comegy"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Country",
+        "Rock"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "To Coming",
+      "reference": ""
+    }
+  ]
+}
