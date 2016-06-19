@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emanuel Quimper",
-    "label": "Programmer",
+    "label": "Web Developer",
     "picture": "https://en.gravatar.com/userimage/97603323/266ec2da917897419d2f7e5fffd8a69b.jpg?size=200",
     "email": "quimperemanuel@gmail.com",
     "phone": "(418) 446-7341",
     "website": "http://equimper.github.io/",
-    "summary": "Emanuel Quimper from Quebec, Canada.",
+    "summary": "Emanuel Quimper from Quebec, Canada. Recently graduated from the career path on Thinkul. ",
     "location": {
       "address": "104 Edgemont Estates Dr Nw",
       "postalCode": "T3A2M3",
@@ -137,7 +137,8 @@
     {
       "name": "Tech",
       "keywords": [
-        "New Technologie"
+        "New Technologie",
+        "Video Games"
       ]
     },
     {
