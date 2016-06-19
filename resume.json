@@ -70,10 +70,15 @@
       "institution": "Campus-Notre-Dame-De-Foy",
       "area": "Fire-Fighter",
       "studyType": "Professional Diploma",
-      "startDate": "2007",
-      "endDate": "2009",
+      "startDate": "2007-09-20",
+      "endDate": "2009-06-15",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "Fire-Fighter",
+        "First Responder",
+        "Water Rescue",
+        "Search and Rescue"
+      ]
     }
   ],
   "awards": [],
